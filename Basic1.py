@@ -1,3 +1,4 @@
+#1
 name = "test"
 classid = "20190930"
 
@@ -6,9 +7,7 @@ print("Class ID : ", classid)
 
 ###################################
 
-#number = input("number IN : ")
-#number = int(number)
-
+#2
 number = int(input("Number IN : "))
 
 if number >= 100:
@@ -20,6 +19,7 @@ print("%d * %d = %d" % (9,2,9*2))
 
 ####################################
 
+#3
 total = 95
 grade = 4.5
 
